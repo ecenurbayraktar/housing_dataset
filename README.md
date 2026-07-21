@@ -9,7 +9,7 @@ The objective is to build a robust regression model while following good machine
 ---
 
 ## Dataset
-
+* **Kaggle dataset link:** `https://www.kaggle.com/datasets/marcopale/housing?select=AmesHousing.csv`
 * **Training data:** `train.csv`
 * **Test data:** `test.csv`
 * **Target variable:** `SalePrice`
